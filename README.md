@@ -12,9 +12,10 @@ The idea is simple: the program reads several old newspaper-style text files, le
 ### 1. Data Sources
 I used three public-domain–style U.S. news text files (not used in class):
 
-- **American Tribune Report – 1915**  
-- **Washington Herald Dispatch – 1920**  
-- **National Gazette Bulletin – 1912**
+- **The_Monitor_July_3_1915**  
+- **The_Monitor_Omaha_July_10_1915**  
+- **The_Monitor_Omaha_July_17_1915**
+- **The_Monitor_April_1_1916**
 
 All three files are combined into a single word list (corpus).  
 This gives the Markov model enough variety to generate natural-looking headlines.
